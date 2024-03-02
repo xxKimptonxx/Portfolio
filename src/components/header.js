@@ -32,7 +32,7 @@ function Header({dark, isDark, openDrawer}) {
         }
     },[])
     return (
-      <header
+      <div
         className="Header"
         style={{ backgroundColor: dark ? "#212121" : "#ffffff" }}
       >
@@ -237,7 +237,7 @@ function Header({dark, isDark, openDrawer}) {
             </label>
           </div>
         </div>
-      </header>
+      </div>
     );
 }
 
