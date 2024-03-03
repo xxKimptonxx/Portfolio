@@ -1,2 +1,2 @@
 # Kimpton's React 
-This i the job portfolio o a freelance develper
+This is the job portfolio of a freelance develper.
