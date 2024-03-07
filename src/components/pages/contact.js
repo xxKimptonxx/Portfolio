@@ -12,7 +12,6 @@ function ContactPage({ dark }) {
             fontSize: "32px",
             fontWeight: "bold",
             textDecoration: "none",
-            wordWrap: "break-word",
           }}
           target="_blank"
           rel="noreferrer"
@@ -28,7 +27,7 @@ function ContactPage({ dark }) {
             fontSize: "32px",
             fontWeight: "bold",
             textDecoration: "none",
-            wordWrap: "break-word",
+            wordWrap: 'break-word'
           }}
           href="https://wa.me/message/D5A4F4ZLIJSVA1"
         >
