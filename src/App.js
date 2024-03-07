@@ -7,6 +7,7 @@ import AboutPage from './components/pages/about';
 import ContactPage from './components/pages/contact';
 import ProjectsPage from './components/pages/projects';
 import Drawer from './components/drawer';
+console.log("Made by Kimpton.dev .")
 
 function App() {
   const [dark,isDark] = useState(false)

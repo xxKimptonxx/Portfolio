@@ -158,7 +158,7 @@ function Header({dark, isDark, openDrawer}) {
                         fill="#ff914d"
                         d="M 0.21875 25.578125 L 12.882812 25.578125 L 12.882812 38.242188 L 0.21875 38.242188 Z M 0.21875 25.578125 "
                         fillOpacity="1"
-                        fill-rule="nonzero"
+                        fillRule="nonzero"
                       />
                     </g>
                   </g>
